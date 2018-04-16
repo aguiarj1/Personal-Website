@@ -1,0 +1,162 @@
+<link href="https://fonts.googleapis.com/css?family=Anton|Libre+Franklin|Oswald" rel="stylesheet">
+
+
+
+p {
+    color: #000000;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+h1, h2 {
+    color: #444444;
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 150%;
+}
+
+h3 {
+    font-size: 120%;
+}
+
+body {
+    margin: 0;
+    background-image: url("http://i.stack.imgur.com/IehB7.png");
+    background-repeat: repeat;
+    
+}
+
+img.iborder {
+    border: 3px solid #D9DBE1;
+}
+
+.pagewidth {
+    width: 800px;
+    padding: 40px;
+    border: 6px solid #D9DBE1;
+    margin: 10px auto 10px auto;
+    background-color: #F4F5F5;
+    -moz-box-shadow: 10px 10px 10px #000000;
+    -webkit-box-shadow: 10px 10px 10px #000000;
+    box-shadow: 10px 10px 10px #000000;
+    border-radius: 20px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    
+}
+
+nav {
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+ul.nav {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    width: 800px;
+    font-family: 'Anton', sans-serif;
+    font-size: 17px;
+    margin: 0px auto 0px auto;
+    
+}
+
+li.nav {
+    float:left;
+}
+
+
+li a {
+    display: block;
+    color: #999999;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 10px 10px 0px 0px;
+}
+
+li.nav a:hover:not(.active) {
+    color: #FFFFFF;
+}
+
+.active {
+    color: #FFFFFF;
+}
+
+a:link {
+    color: #999999;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.align-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.maincontent {
+    
+}
+
+.secondcontent{
+    
+}
+
+.overf {
+    overflow: auto;
+    width: 100%;
+}
+
+.maincontentaboutme{
+    float:left;
+    width: 650px;
+
+}
+
+.sidebarcontact {
+    float: left;
+    width: 140px;
+    padding: 5px;
+    text-align: center;
+}
+
+footer {
+    color:#FFFFFF !important;
+    width: 200px;
+    text-align: center;
+    margin: 10px auto 10px auto;
+}
+
+input, textarea {
+    font-size: 120%;
+    color: #444444;
+    background-color: #D9DBE1;
+    padding: 5px 5px 5px 10px;
+}
+
+
+
+
+
+
+
+
